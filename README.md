@@ -1,6 +1,6 @@
 # SeoJeaWan ✨
 
-### Hello Everyone
+### Hello Everyone!!
 <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
 
 <!--
