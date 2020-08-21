@@ -1,6 +1,7 @@
 # SeoJeaWan ✨
 
-### Hello Everyone<img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="24px">
+### Hello Everyone
+<img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="60px">
 
 <!--
 **SeoJaeWan/SeoJaeWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
