@@ -3,6 +3,10 @@
 ### Hello Everyone👋
 <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
 
+<p>
+  I am <strong>Junior</strong> Developer. 👨‍💻
+</p>
+
 <!--
 **SeoJaeWan/SeoJaeWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
