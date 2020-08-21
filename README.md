@@ -1,4 +1,6 @@
-### Hi there 👋
+### SeoJeaWan ✨
+
+#### Hello Everyone![HelloJerry](https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif)
 
 <!--
 **SeoJaeWan/SeoJaeWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
