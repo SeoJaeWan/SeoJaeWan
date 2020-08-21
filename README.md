@@ -4,7 +4,7 @@
 <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
 
 <p>
-  I am <strong>Junior</strong> Developer. 👨‍💻
+  I am <strong>Junior</strong> Developer. 👶 </br> 
 </p>
 
 <!--
