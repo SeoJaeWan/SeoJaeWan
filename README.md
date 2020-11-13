@@ -5,7 +5,7 @@
 
 <p>
   I am <strong>Junior</strong> Developer. 👶 <br /> 
-  I hope to be a <strong>front-end</strong> developer. 📃 <br />
+  I hope to be a <strong>Full-Stack</strong> developer. 📃 <br />
   I am studying <strong>html, css, javascript, react, node.js.</strong> 📝
 </p>
 
