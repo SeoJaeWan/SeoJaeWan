@@ -9,7 +9,7 @@
   I am studying <strong>html, css, javascript, react, node.js.</strong> 📝
 </p>
 
-### Contects 📮
+### Contacts 📮
 
 * Email : sjw7324@gmail.com
 * Github Repo Issue
