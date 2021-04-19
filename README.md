@@ -11,6 +11,9 @@
 </p>
 -->
 
+### Study Note 📘
+* Notion : https://www.notion.so/seojaewan/Web-Dev-49a94f35d3fb441097a3d4bb363bbbd4
+
 ### Contacts 📮
 
 * Email : sjw7324@gmail.com
