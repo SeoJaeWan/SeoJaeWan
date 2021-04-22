@@ -1,7 +1,7 @@
 # SeoJeaWan <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/fish.gif" width="40px">
 
 ### Hello Everyone👋
-<div style ={display:"flex", flexDirection:"row"}>
+<div style= "display:flex; flex-direction:row;">
   <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
   
   ![SeoJaeWan's github stats](https://github-readme-stats.vercel.app/api?username=SeoJaeWan&show_icons=true&count_private=true)
