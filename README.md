@@ -1,8 +1,9 @@
 # SeoJeaWan <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/fish.gif" width="40px">
 
 ### Hello Everyone👋
-<img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
-
+<div style ={display:"flex", flexDirection:"row"}>
+  <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
+</div>
 <!--
 <p>
   I am <strong>Junior</strong> Developer. 👶 <br /> 
