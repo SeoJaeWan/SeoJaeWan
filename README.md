@@ -1,11 +1,8 @@
 # SeoJeaWan <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/fish.gif" width="40px">
 
 ### Hello Everyone👋
-<div style="display:flex !important; color:maroon; font-size:150%; text-align:center">
-  <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
-  
-  ![SeoJaeWan's github stats](https://github-readme-stats.vercel.app/api?username=SeoJaeWan&show_icons=true&count_private=true)
-</div>
+<img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
+
 <!--
 <p>
   I am <strong>Junior</strong> Developer. 👶 <br /> 
@@ -23,3 +20,4 @@
 * Github Repo Issue
 
 \
+![SeoJaeWan's github stats](https://github-readme-stats.vercel.app/api?username=SeoJaeWan&show_icons=true&count_private=true)
