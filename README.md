@@ -1,4 +1,5 @@
-# SeoJeaWan <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/fish.gif" width="10px">
+# SeoJeaWan
+<!-- <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/fish.gif" width="10px"> -->
 
 ### Hello Everyone👋
 <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
