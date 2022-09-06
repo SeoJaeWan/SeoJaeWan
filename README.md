@@ -21,5 +21,7 @@
 * Email : sjw7324@gmail.com
 * Github Repo Issue
 
+<!--
 \
 ![SeoJaeWan's github stats](https://github-readme-stats.vercel.app/api?username=SeoJaeWan&show_icons=true&count_private=true)
+-->
