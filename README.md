@@ -2,24 +2,12 @@
 <!-- <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/fish.gif" width="10px"> -->
 
 ### Hello Everyone👋
-<img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/HelloJerry.gif" width="300px">
-
-<!--
-<p>
-  I am <strong>Junior</strong> Developer. 👶 <br /> 
-  I hope to be a <strong>Full-Stack</strong> developer. 📃 <br />
-  I am studying <strong>html, css, javascript, react, node.js.</strong> 📝
-</p>
--->
-
-### Study Note 📘
-* Blog : https://bum-developer.tistory.com/
+[![Resume Card](https://refresh.cv/r/seojaewan/middle-card)](https://refresh.cv/seojaewan)
 
 ### Contacts 📮
 
 * Email : sjw7324@gmail.com
-* Github Repo Issue
-
+* LinkedIn : [SeoJaeWan](https://www.linkedin.com/in/%EC%9E%AC%EC%99%84-%EC%84%9C-95216825b/)
 <!--
 \
 ![SeoJaeWan's github stats](https://github-readme-stats.vercel.app/api?username=SeoJaeWan&show_icons=true&count_private=true)
