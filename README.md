@@ -2,7 +2,7 @@
 <!-- <img src="https://github.com/SeoJaeWan/SeoJaeWan/blob/master/fish.gif" width="10px"> -->
 
 ### Hello Everyone👋
-[![Resume Card](https://refresh.cv/r/seojaewan/mini-card)](https://refresh.cv/seojaewan)
+[![Resume Card](https://refresh.cv/r/seojaewan/middle-card)](https://refresh.cv/seojaewan)
 
 ### Contacts 📮
 * Email : sjw7324@gmail.com
