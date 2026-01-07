@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "characters": [
+    {
+      "id": "study",
+      "name": "공부",
+      "file": "characters/study.png"
+    },
+    {
+      "id": "drawing",
+      "name": "그림",
+      "file": "characters/drawing.png"
+    },
+    {
+      "id": "running",
+      "name": "달리기",
+      "file": "characters/running.png"
+    },
+    {
+      "id": "hiking",
+      "name": "등산",
+      "file": "characters/hiking.png"
+    },
+    {
+      "id": "idle",
+      "name": "멍",
+      "file": "characters/idle.png"
+    },
+    {
+      "id": "interview",
+      "name": "면접",
+      "file": "characters/interview.png"
+    },
+    {
+      "id": "drink-water",
+      "name": "물먹기",
+      "file": "characters/drink-water.png"
+    },
+    {
+      "id": "dishwashing",
+      "name": "설거지",
+      "file": "characters/dishwashing.png"
+    },
+    {
+      "id": "sleep",
+      "name": "수면",
+      "file": "characters/sleep.png"
+    },
+    {
+      "id": "yoga",
+      "name": "요가",
+      "file": "characters/yoga.png"
+    },
+    {
+      "id": "workout",
+      "name": "운동",
+      "file": "characters/workout.png"
+    },
+    {
+      "id": "work",
+      "name": "일하기",
+      "file": "characters/work.png"
+    },
+    {
+      "id": "cleaning",
+      "name": "청소",
+      "file": "characters/cleaning.png"
+    },
+    {
+      "id": "piano",
+      "name": "피아노",
+      "file": "characters/piano.png"
+    }
+  ],
+  "backgrounds": [
+    {
+      "id": "park",
+      "name": "공원",
+      "file": "backgrounds/park.png"
+    },
+    {
+      "id": "room",
+      "name": "방",
+      "file": "backgrounds/room.png"
+    },
+    {
+      "id": "playground",
+      "name": "운동장",
+      "file": "backgrounds/playground.png"
+    }
+  ]
+}
+
