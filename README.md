@@ -1,1 +1,1 @@
-<img src="./content/intro.svg"/>
+![room banner](./content/intro.svg)
